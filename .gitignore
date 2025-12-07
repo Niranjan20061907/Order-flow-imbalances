@@ -1,0 +1,18 @@
+# Mac OS junk
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Data files (do not version raw or processed data)
+data/
+
+# VSCode
+.vscode/
